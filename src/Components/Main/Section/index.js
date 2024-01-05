@@ -8,7 +8,7 @@ function Section({listItems,setListItems,copyListItems,setCheckAllBox,checkAllBo
 	
 	
 	
-	//Bu fonksiyon ile maddelerin check edilme durumlarını değiştiriyoruz yani eğer check edilmişse check edilmemiş haline check edilmemişse check edilmil haline dönüyor.
+	//Bu fonksiyon ile maddelerin check edilme durumlarını değiştiriyoruz yani eğer check edilmişse check edilmemiş haline check edilmemişse check edilmiş haline dönüyor.
 	let onCheck = (selectedItem) => {
 		
 		
