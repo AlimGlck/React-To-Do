@@ -4,6 +4,8 @@
 
 ***Patika Dev Website***:https://www.patika.dev/
 
+***Netlify Link***: https://genuine-chimera-6ad36e.netlify.app/
+
 ## ***Used Hooks***
 ***
 - **Use-State**    ✅
